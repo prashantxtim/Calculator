@@ -27,7 +27,13 @@ And just in case you are curious, the color code of the color that I’ve used i
 
 I have assigned the framing of this calculator as 532x465 which resonates to 532 pixels of width and 465 pixels of height.
 
-I have added one additional feature which is to not allow the user to resize the calculators frame because, the frame of the calculator when resized, increases the amount of black space in the background which to me, looks extremely unprofessionally done.
+I have added one additional feature which is to not allow the user to resize the calculator's frame because, the frame of the calculator when resized, increases the amount of black space in the background which to me, looks extremely unprofessionally done.
+
+This is how it would look if resizing was allowed:
+
+<img width="1007" alt="Screen Shot 2021-04-23 at 6 16 01 PM" src="https://user-images.githubusercontent.com/47918831/115903977-f69baa80-a483-11eb-804e-497dcedae54b.png">
+
+Not what I wanted. So, I made assigned a fixed frame to the Simple Calculator.
 
 # Disclaimer and Conclusion
 
