@@ -11,4 +11,4 @@ Screenshot of the Simple Calculator App:
 
 For now this calculator can only perform simple mathematical calculations but I plan on adding more features and fuctionalities to it later on.
 
-I got majorities of design and programming ideas for this calculator on Stack Overflow.
+I got many of the design and programming ideas for this calculator on Stack Overflow.
