@@ -1,4 +1,4 @@
-This Python based Simple Calculator, built sing the Tkinter Library, supports four mathematical commands:
+This Python based Simple Calculator, built using the Tkinter Library, supports four mathematical commands:
 
 1. Addition
 2. Subtraction
