@@ -1,1 +1,1 @@
-To build this calculator app, I got a lot of ideas and resources from Stack Overflow.
+To build this calculator app, I got a lot of ideas and resources from Stack Overflow. I did not use any images to outsource to as I was using Mac Operating System, that I later found out, did not support Image Preview by default.
