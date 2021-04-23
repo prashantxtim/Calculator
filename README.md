@@ -33,7 +33,7 @@ This is how it would look if resizing was allowed:
 
 <img width="1007" alt="Screen Shot 2021-04-23 at 6 16 01 PM" src="https://user-images.githubusercontent.com/47918831/115903977-f69baa80-a483-11eb-804e-497dcedae54b.png">
 
-Not what I wanted. So, I made assigned a fixed frame to the Simple Calculator.
+Not what I wanted. So, I assigned a fixed frame to the Simple Calculator.
 
 # Disclaimer and Conclusion
 
